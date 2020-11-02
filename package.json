@@ -1,6 +1,6 @@
 {
   "name": "cra-template-cra-with-react-router",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Samet Mutevelli <sametmutevellioglu@gmail.com",
   "engines": {
     "node": ">=10"
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/yourrepofortemplate.git",
+    "url": "https://github.com/sametweb/cra-with-react-router",
     "directory": "/"
   },
   "dependencies": {
